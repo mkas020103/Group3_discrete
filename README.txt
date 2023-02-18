@@ -2,4 +2,5 @@ The repository contains:
 
 	-powerpoint presentation
 	-documentation
-	-Version 11 or final version of our program containing the icons and program itself
+	-All previous versions
+	-Version 11 is the final version
